@@ -68,14 +68,19 @@ Here are some screenshots of the app in different states:
 
 ## How to Run
 
-1. Clone the repository to your local machine:
-   git clone [https://github.com/ablove/flutter-login-order-app.git](https://github.com/ablove/flutter-login-order-app.git)
-
-2. Navigate into the project directory:
+1. Clone this repository
+   ```sh
+   git clone https://github.com/ablove/flutter-login-order-app.git
+   ```
+2. Navigate to the project directory
+   ```sh
    cd flutter-login-order-app
-
-3. Install the necessary dependencies:
+   ```
+3. Install dependencies
+   ```sh
    flutter pub get
-
-4. Run the app:
+   ```
+4. Run the app
+   ```sh
    flutter run
+   ```
